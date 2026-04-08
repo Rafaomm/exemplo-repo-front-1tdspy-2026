@@ -1,0 +1,27 @@
+/* comentario CSS */
+
+/*p, a{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}*/
+
+/* TRABALHANDO ESTILO DO BODY */
+
+body{
+    background-color: #171515;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+header{
+    background-color: #2b2828;
+    padding: 10px;
+    text-align: center;
+}
+
+header nav ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
